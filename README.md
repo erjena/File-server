@@ -17,7 +17,7 @@ $ python3 -m venv venv
 $ virtualenv venv
 $ source venv/bin/activate
 ```
-Step 3: Start server:
+Step 3: To start server:
 ```
 $ python3 <full_path_to_directory_to_serve_files>
 ```
